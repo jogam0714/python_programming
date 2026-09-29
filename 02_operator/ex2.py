@@ -13,7 +13,7 @@ print(~a) # 1111 1010 -> 0000 0110 (-6)
 print("a" in "apple")
 print( 3 in [1,2,3])
 
-# 상황 연산자
+# 삼항 연산자
 # int max = a > b ? a : b;
 max = a if a > b else b
 
